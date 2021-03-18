@@ -12,8 +12,5 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
-    public class HelloWorld {
-      public boolean isGreater(int num1, int num2){
-        return num1 > num2;
-    }
+  
 }
